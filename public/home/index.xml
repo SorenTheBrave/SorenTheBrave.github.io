@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Columbus Go Club</title>
+    <link>http://localhost:1313/home/</link>
+    <description>Recent content in Homes on Columbus Go Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Mar 2016 02:19:33 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Columbus Go Club - Welcome</title>
+      <link>http://localhost:1313/home/welcome/</link>
+      <pubDate>Thu, 24 Mar 2016 02:19:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/welcome/</guid>
+      <description>&lt;p&gt;Welcome to the Columbus Go Club&amp;rsquo;s home page! We love Go!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
