@@ -1,4 +1,4 @@
-@media (min-width: 700px){
+@media (min-width: 950px){
 	#playing-go{
 		float: left;
 		height: 325px;
@@ -18,7 +18,7 @@
 	}
 }
 
-@media (max-width: 699px){
+@media (max-width: 950px){
 	#playing-go{
 		height: 50%;
 		width: 100%;
@@ -34,10 +34,22 @@
 		width: 100%;
 	}
 	
-	.panel-text{
-		height: 50%;
-		width: 100%;
+	.panel{
+		height: 450px !important;
 	}
+	
+	.panel-text{
+		width: 100% !important;
+	}
+	
+	.panel-main-text{
+		margin: 0 auto;
+		width: 85% !important;
+	}
+}
+
+@media (max-width: 550px){
+	/*Let's test on the phone*/
 }
 
 body{
