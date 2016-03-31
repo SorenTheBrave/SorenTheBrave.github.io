@@ -16,7 +16,29 @@
 		height: 325px;
 		width: 50%;
 	}
-} 
+}
+
+@media (max-width: 699px){
+	#playing-go{
+		height: 50%;
+		width: 100%;
+	}
+	
+	#location{
+		height: 50%;
+		width: 100%;
+	}
+	
+	#inspirational{
+		height: 50%;
+		width: 100%;
+	}
+	
+	.panel-text{
+		height: 50%;
+		width: 100%;
+	}
+}
 
 div{
 	font-family: "arial", sans;
