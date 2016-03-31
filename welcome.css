@@ -1,4 +1,4 @@
-@media (min-width: 950px){
+@media (min-width: 700px){
 	#playing-go{
 		float: left;
 		height: 325px;
@@ -18,7 +18,7 @@
 	}
 }
 
-@media (max-width: 950px){
+@media (max-width: 699px){
 	#playing-go{
 		height: 50%;
 		width: 100%;
@@ -32,24 +32,12 @@
 	#inspirational{
 		height: 50%;
 		width: 100%;
-	}
-	
-	.panel{
-		height: 450px !important;
 	}
 	
 	.panel-text{
-		width: 100% !important;
+		height: 50%;
+		width: 100%;
 	}
-	
-	.panel-main-text{
-		margin: 0 auto;
-		width: 85% !important;
-	}
-}
-
-@media (max-width: 550px){
-	/*Let's test on the phone*/
 }
 
 body{
