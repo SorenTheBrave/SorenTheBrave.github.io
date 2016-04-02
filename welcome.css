@@ -1,17 +1,5 @@
 @media (min-width: 950px){
-	#playing-go{
-		float: left;
-		height: 325px;
-		width: 50%;
-	}
-	
-	#location{
-		float: left;
-		height: 325px;
-		width: 50%;
-	}
-	
-	#inspirational{
+	.panel-image{
 		float: left;
 		height: 325px;
 		width: 50%;
